@@ -1,1 +1,1 @@
-high_score = 14
+high_score = 0
